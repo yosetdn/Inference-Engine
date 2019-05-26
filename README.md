@@ -9,9 +9,9 @@ After clone this repository you need to do to install all the dependencies.
 For the case you wanna try your own problem create a file a save into cases folder
 
 The sintaxys of BC should be:
-`BC{
-       
-}`
+`BC{ `   
+` `  
+`}`
 Where each knowledge should have this sintaxys:
 Simple
 `A->B` 
