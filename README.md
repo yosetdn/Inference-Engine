@@ -14,11 +14,11 @@ The sintaxys of BC should be:<br>
 `}`<br>
 Where each knowledge should have this sintaxys:<br>
 Simple
-`A->B` 
-And<br>
-`A&C->B` 
-OR<br>
-`A|C->B`
+`A->B` <br>
+And
+`A&C->B`<br> 
+OR
+`A|C->B`<br>
 
 ## RUN
 How to run
