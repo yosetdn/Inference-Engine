@@ -8,16 +8,16 @@ After clone this repository you need to do to install all the dependencies.
 ## Sintaxys
 For the case you wanna try your own problem create a file a save into cases folder
 
-The sintaxys of BC should be:
+The sintaxys of BC should be:<br>
 `BC{ `   
 ` `  
-`}`
-Where each knowledge should have this sintaxys:
+`}`<br>
+Where each knowledge should have this sintaxys:<br>
 Simple
 `A->B` 
-And
+And<br>
 `A&C->B` 
-OR
+OR<br>
 `A|C->B`
 
 ## RUN
