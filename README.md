@@ -1,7 +1,7 @@
 # Inference-Engine
 
 ## Install
-After clone this repository you need to do to install all the dependencies.
+After clone this repository you need to install all the dependencies.
 `npm install `
 
 
