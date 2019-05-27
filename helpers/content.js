@@ -19,16 +19,16 @@ const goal = (content) => {
     return cleanContent(res);
 }
 
-const cleanContent = (res) =>{
+const cleanContent = (res) => {
     const real = [];
     for (const key of Object.keys(res)) {
-        res[key] = res[key].replace(/\s/g,'');
-        if(res[key]!=='') real.push(res[key]);
+        res[key] = res[key].replace(/\s/g, '');
+        if (res[key] !== '') real.push(res[key]);
     }
     return real;
 }
 
-module.exports={
+module.exports = {
     getBC,
     getBH,
     goal
