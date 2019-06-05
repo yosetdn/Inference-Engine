@@ -1,0 +1,8 @@
+BC{
+    B&C->A
+    C&D->A
+    E->B
+    F|G->C
+}
+BH={E,F}
+G={A}
