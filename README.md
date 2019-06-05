@@ -23,16 +23,16 @@ OR
 ## RUN
 How to run
 
-`node main.js file={nameofyourcase.yourextension} {method}` 
+`node main.js --file={nameofyourcase.yourextension} {method}` 
 
 Method is the forward chaining or backward chaining, just replace {method} by the method you wanna try by: forward or backward.
 
 Full Example:
-`node main.js file=test1.txt backward`
+`node main.js --file=test1.txt backward`
 
 ## Authors
 
-* **yosetdn** - *Initial work* - [yosetdn](https://github.com/yosetdn)
+* **yosetdn&Andrwws** - *Initial work* - [yosetdn](https://github.com/yosetdn)
 
 
 ## License
