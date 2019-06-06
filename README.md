@@ -1,4 +1,7 @@
 # Inference-Engine
+## Dependencies
+You have to install node you can download the installer on this link:
+https://nodejs.org/es/download/
 
 ## Install
 After clone this repository you need to install all the dependencies.
